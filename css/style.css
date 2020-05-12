@@ -1,1 +1,70 @@
+@media (min-width: 1200px) {
 
+    .container-verybig{
+        max-width:1560px;
+    }
+}
+
+#bandeausaison4{
+height: 3000px;
+}
+
+    .container-verybig{
+    background-image: url(https://media.discordapp.net/attachments/709643068499820545/709653278970871828/combat.jpg);
+    background-repeat: no-repeat;
+}
+
+    h1{
+    text-transform: uppercase;
+    font-family: 'Jost', sans-serif;
+    color: white;
+    text-align: left;
+    font-size:55px;
+    margin-bottom:20px;
+}
+
+    .no-gutters {
+    padding-top:330px;
+    padding-left: 20px;
+}
+
+    .col-6 {
+    font-family: Open Sans,Arial,Helvetica,sans-serif;
+    color: #ebdec2;
+    font-size:21px;
+    text-align: left;
+    margin-bottom:30px;
+}
+
+    a {
+    color: #ebdec2;
+    text-decoration: underline;
+    margin-top: 10px;
+    display: flex;
+}
+
+    .annonce{
+    background-color: rgba(159, 22, 0, 0.6);
+    margin-left: 0px;
+     display: inline-block;
+    padding:10px 30px;
+    border: 1px solid #f7b10a;
+    color:#f7b10a;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom:70px;
+    text-align: left;
+}
+
+     .ensavoir{
+    display: inline-block;
+    padding:10px 30px;
+    border: 1px solid #f7b10a;
+    color:#f7b10a;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom:70px;
+    text-align: left;
+    background: rgba(0,0,0,.4);
+    margin-left: 20px;
+}
