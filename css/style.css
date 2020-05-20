@@ -66,3 +66,21 @@ background-repeat: no-repeat;
     background: rgba(0,0,0,.4);
     margin-left: 20px;
 }
+
+#bandeausaison4 
+h2 {
+    color: white;
+   padding: 10px;
+   font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+   font-weight: 700;
+   font-size: 1.4rem;
+}
+
+#bandeausaison4 h2 b {
+    color: #f8b700;
+   font-size: 1rem;
+   font-family: Open Sans,Arial,Helvetica,sans-serif;
+   font-weight:normal;
+   display: inline-block;
+   padding: 20px;
+}
