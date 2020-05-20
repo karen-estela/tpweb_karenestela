@@ -6,16 +6,14 @@
 }
 
 #bandeausaison4{
-height: 3000px;
+background-image: url(https://media.discordapp.net/attachments/709643068499820545/709653278970871828/combat.jpg);
+background-repeat: no-repeat;
 }
 
-    .container-verybig{
-    background-image: url(https://media.discordapp.net/attachments/709643068499820545/709653278970871828/combat.jpg);
-    background-repeat: no-repeat;
-}
 
     h1{
     text-transform: uppercase;
+    font-weight: bold;
     font-family: 'Jost', sans-serif;
     color: white;
     text-align: left;
@@ -37,10 +35,10 @@ height: 3000px;
 }
 
     a {
+    display: inline-block;
     color: #ebdec2;
     text-decoration: underline;
-    margin-top: 10px;
-    display: flex;
+    margin-top: 30px;
 }
 
     .annonce{
